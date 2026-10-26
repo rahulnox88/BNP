@@ -1,0 +1,88 @@
+product_ref,customer_name,product_name,purchase_price,service_plan,claim_category,credit_eligible,credit_value
+PW-6001,Junia Solano,Halden Space Heater Ceramic,68.02,Standard,manufacturing_defect,True,68.02
+PW-6002,Selin Kwiatkowski,Driftwave Bluetooth Speaker,60.73,Standard,out_of_warranty,False,0.00
+PW-6003,Marguerite Solano,Vantage CascadeBrew Pro Coffee Maker,138.50,Standard,manufacturing_defect,True,138.50
+PW-6004,Wren Doshi,Glide Hand Mixer 5-Speed,37.42,Premium,known_component_recall,True,37.42
+PW-6005,Amara Kessler,Solene Hair Dryer Duo,54.43,Standard,shipping_damage_covered,True,54.43
+PW-6006,Marguerite Solano,Vantage CascadeBrew Pro Coffee Maker,145.00,Standard,liquid_damage_customer_caused,False,0.00
+PW-6007,Miriam Rossi,Halden Space Heater Ceramic,78.17,Standard,shipping_damage_covered,True,78.17
+PW-6008,Talia Doyle,Northwind Vacuum Handheld,96.76,Standard,known_component_recall,True,96.76
+PW-6009,Jozef Nakamura,Vantage Stand Mixer 500,205.00,Standard,manufacturing_defect,True,205.00
+PW-6010,Ingrid Tierney,Brightline Steam Mop,63.74,Premium,manufacturing_defect,True,63.74
+PW-6011,Jozef Nakamura,Vantage Stand Mixer 500,210.00,Standard,manufacturing_defect,True,210.00
+PW-6012,Odette Nandakumar,Zenlight Floor Lamp,58.79,Standard,known_component_recall,True,58.79
+PW-6013,Elio Solberg,Nimbus Humidifier Cool-Mist,42.48,Standard,out_of_warranty,False,0.00
+PW-6014,Baptiste Renner,Solstice Air Fryer XL,92.00,Standard,manufacturing_defect,True,92.00
+PW-6015,Talia Kessler,Meridian Toaster 2-Slice,35.50,Standard,cosmetic_wear_not_covered,False,0.00
+PW-6016,Ingrid Osgood,Brightline Steam Mop,81.55,Premium,accidental_damage_not_covered,False,0.00
+PW-6017,Baptiste Renner,Solstice Air Fryer XL,95.00,Standard,cosmetic_wear_not_covered,False,0.00
+PW-6018,Simone Achebe,Zenlight Floor Lamp,53.17,Standard,manufacturing_defect,True,53.17
+PW-6019,Grace Kaczmarek,Cascadia Air Purifier Mini,128.77,Standard,shipping_damage_covered,True,128.77
+PW-6020,Tobias Marchetti,Halcyon Robot Vacuum R2,255.00,Standard,manufacturing_defect,True,255.00
+PW-6021,Odette Nandakumar,Vantage Electric Griddle,56.97,Standard,out_of_warranty,False,0.00
+PW-6022,Corwin Tierney,Meridian Toaster 2-Slice,30.76,Standard,liquid_damage_customer_caused,False,0.00
+PW-6023,Simone Achebe,Halcyon Robot Vacuum R2,260.00,Standard,manufacturing_defect,True,260.00
+PW-6024,Wren Bell,Solene Hair Dryer Duo,51.69,Standard,manufacturing_defect,True,51.69
+PW-6025,Elena Lindqvist,Meridian Toaster 2-Slice,36.31,Premium,shipping_damage_covered,True,36.31
+PW-6026,Helena Kwiatkowski,Aurora 85-inch OLED Home Theater Display,780.00,Standard,shipping_damage_covered,True,780.00
+PW-6027,Thora Bashir,Halcyon Robot Mop,186.36,Standard,manufacturing_defect,True,186.36
+PW-6028,Corbin Whitfield,Ridgeline Grinder Burr,82.99,Standard,known_component_recall,True,82.99
+PW-6029,Helena Kwiatkowski,Aurora 85-inch OLED Home Theater Display,3180.00,Premium,manufacturing_defect,True,3180.00
+PW-6030,Bram Doyle,Driftwave Bluetooth Speaker,63.24,Standard,known_component_recall,True,63.24
+PW-6031,Percival Song,Everline Toaster Duo,58.00,Standard,known_component_recall,True,58.00
+PW-6032,Wren Marsh,Everline Waffle Maker,43.04,Standard,out_of_warranty,False,0.00
+PW-6033,Ines Marchetti,Halden Space Heater Ceramic,77.10,Standard,known_component_recall,True,77.10
+PW-6034,Percival Song,Everline Toaster Duo,60.00,Standard,manufacturing_defect,True,0.00
+PW-6035,Marisol Whitfield,Driftwave Turntable Vinyl,147.73,Standard,known_component_recall,True,147.73
+PW-6036,Soraya Delacroix,Brightline Cordless Vacuum V3,195.00,Standard,shipping_damage_covered,True,195.00
+PW-6037,Delphine Sorokin,Aurora Soundbar 2.1,164.05,Standard,accidental_damage_not_covered,False,0.00
+PW-6038,Soraya Delacroix,Brightline Cordless Vacuum V3,200.00,Standard,manufacturing_defect,True,200.00
+PW-6039,Marisol Marsh,Meridian Toaster 2-Slice,34.53,Premium,known_component_recall,True,34.53
+PW-6040,Elio Kaczmarek,Aurora Soundbar 2.1,166.98,Premium,manufacturing_defect,True,166.98
+PW-6041,Grant Okonkwo,Meridian 12-Piece Cookware Set Pro,640.00,Standard,shipping_damage_covered,True,640.00
+PW-6042,Grace Bashir,Cascadia Blender Pro,78.65,Standard,manufacturing_defect,True,78.65
+PW-6043,Caspian Delacroix,Driftwave Bluetooth Speaker,59.15,Standard,manufacturing_defect,True,59.15
+PW-6044,Grant Okonkwo,Meridian 12-Piece Cookware Set Pro,3150.00,Standard,manufacturing_defect,True,3150.00
+PW-6045,Ingrid Kaczmarek,Cascadia Blender Pro,69.06,Standard,manufacturing_defect,True,69.06
+PW-6046,Priya Vantassel,Zenlight Desk Lamp Mini,42.00,Standard,manufacturing_defect,True,42.00
+PW-6047,Fenella Bell,Cascadia Blender Pro,61.06,Standard,manufacturing_defect,True,61.06
+PW-6048,Halden Kwiatkowski,Halcyon Robot Mop,171.17,Standard,known_component_recall,True,171.17
+PW-6049,Priya Vantassel,Zenlight Desk Lamp Mini,45.00,Standard,manufacturing_defect,True,45.00
+PW-6050,Owen Thibodeaux,Vantage Electric Griddle,57.89,Standard,shipping_damage_covered,True,57.89
+PW-6051,Farhan Dellacroix,Glide Electric Kettle 1.7L,38.00,Standard,known_component_recall,True,38.00
+PW-6052,Marisol Kwiatkowski,Fenwick Drill Driver Combo,89.52,Standard,shipping_damage_covered,True,89.52
+PW-6053,Farhan Dellacroix,Glide Electric Kettle 1.7L,40.00,Standard,manufacturing_defect,True,40.00
+PW-6054,Dashiell Achebe,Nimbus Humidifier Cool-Mist,41.45,Premium,already_replaced_once,False,0.00
+PW-6055,Alessio Tierney,Halden Space Heater Ceramic,74.38,Standard,cosmetic_wear_not_covered,False,0.00
+PW-6056,Anwen Delacroix,Ridgeline Espresso Machine Deluxe,650.00,Standard,accidental_damage_not_covered,False,0.00
+PW-6057,Halden Doshi,Fenwick Drill Driver Combo,85.53,Standard,manufacturing_defect,True,85.53
+PW-6058,Anwen Delacroix,Ridgeline Espresso Machine Deluxe,680.00,Standard,manufacturing_defect,True,680.00
+PW-6059,Nikolai Delacroix,Nimbus Humidifier Cool-Mist,49.46,Standard,liquid_damage_customer_caused,False,0.00
+PW-6060,Dashiell Okafor,Solace Tablet 11 Pro,295.00,Standard,manufacturing_defect,True,295.00
+PW-6061,Bram Doshi,Glide Hand Mixer 5-Speed,31.57,Standard,manufacturing_defect,True,31.57
+PW-6062,Dashiell Okafor,Solace Tablet 11 Pro,310.00,Standard,manufacturing_defect,True,-45.00
+PW-6063,Sable Solano,Meridian Pressure Cooker 8L,110.78,Premium,manufacturing_defect,True,110.78
+PW-6064,Wendell Osgood,Fenwick Cordless Drill Kit,70.00,Standard,known_component_recall,True,70.00
+PW-6065,Delphine Voss,Solstice Convection Oven,237.81,Standard,shipping_damage_covered,True,237.81
+PW-6066,Wendell Osgood,Fenwick Cordless Drill Kit,75.00,Standard,manufacturing_defect,True,75.00
+PW-6067,Corbin Kessler,Halcyon Robot Mop,189.36,Standard,accidental_damage_not_covered,False,0.00
+PW-6068,Innes Kaczmarek,Aurora Soundbar 2.1,166.31,Standard,manufacturing_defect,True,166.31
+PW-6069,Marisol Solberg,Meridian Pressure Cooker 8L,120.24,Standard,known_component_recall,True,120.24
+PW-6070,Innes Kaczmarek,Cascadia Blender Pro,72.00,Standard,manufacturing_defect,True,72.00
+PW-6071,Grant Whitfield,Solace Earbuds Sport,43.53,Premium,manufacturing_defect,True,43.53
+PW-6072,Rosalind Achterberg,Solene Hair Dryer Ionic,48.00,Standard,liquid_damage_customer_caused,False,0.00
+PW-6073,Callum Ibarra,Solace Earbuds Sport,41.31,Premium,manufacturing_defect,True,41.31
+PW-6074,Rosalind Achterberg,Solene Hair Dryer Ionic,50.00,Standard,manufacturing_defect,True,50.00
+PW-6075,Thora Brenner,Halden Space Heater Ceramic,76.86,Premium,manufacturing_defect,True,76.86
+PW-6076,Marisol Marsh,Nimbus Humidifier Cool-Mist,46.00,Standard,manufacturing_defect,True,46.00
+PW-6077,Odalys Ferreira,Nimbus 4K Projector Cinema,1450.00,Standard,manufacturing_defect,True,1450.00
+PW-6078,Grace Fenwick,Meridian Pressure Cooker 8L,120.53,Standard,shipping_damage_covered,True,120.53
+PW-6079,Odalys Ferreira,Nimbus 4K Projector Cinema,1380.00,Standard,known_component_recall,True,1380.00
+PW-6081,Ingrid Brenner,Driftwave Bluetooth Speaker,53.16,Standard,known_component_recall,True,53.16
+PW-6082,Callista Fenwick,Driftwave Bluetooth Speaker,68.09,Standard,known_component_recall,True,68.09
+PW-6083,Marcus Thibodeaux,Halden Toaster Oven Compact,65.00,Standard,manufacturing_defect,True,65.00
+PW-6084,Owen Lindqvist,Aurora Soundbar 2.1,135.10,Standard,known_component_recall,True,135.10
+PW-6085,Marcus Thibodeaux,Halden Toaster Oven Compact,62.00,Standard,known_component_recall,True,62.00
+PW-6086,Hana Voskuijlen,Driftwave Noise-Cancelling Headphones,55.00,Standard,manufacturing_defect,True,55.00
+PW-6089,Halden Song,Driftwave Bluetooth Speaker,64.26,Standard,manufacturing_defect,True,64.26
+PW-6090,Hana Voskuijlen,Driftwave Noise-Cancelling Headphones,52.00,Standard,manufacturing_defect,True,52.00

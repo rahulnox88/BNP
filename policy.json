@@ -1,0 +1,8 @@
+{
+  "policy_version": "1.5.0",
+  "auto_approval_limit_usd": 100.0,
+  "refunds_require_human_approval": false,
+  "credits_require_human_approval": false,
+  "replacements_require_human_approval": false,
+  "supported_warranty_categories": ["manufacturing_defect", "known_component_recall", "shipping_damage_covered"]
+}
